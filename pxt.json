@@ -11,7 +11,8 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "main.py"
+        "main.py",
+        "instructions-1.md"
     ],
     "testFiles": [
         "test.ts"
