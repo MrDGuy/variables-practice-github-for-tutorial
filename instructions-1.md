@@ -108,3 +108,15 @@ Then redeclare answer and set it equal to  ``||variables:first_number||`` plus `
   #Redeclare first_number and second_number here:
 ```
 
+## Student Task #1
+Start with example #2
+Add a ``||variables:third_number||`` variable with a unique value
+Create an equation using both the addition operator (+) and the multiplication operator (*)
+Swap the Addition and Multiplication operator and run the program (Typically the answers will differ)
+
+## Student Task #2
+Start with the code from the previous task
+Add a ``||variables:fourth_number||`` variable
+Create an equation using 3 different operators
+Challenge: create an equation using all 4 basic operators (+, -, *, /) and at least 5 unique variables
+
